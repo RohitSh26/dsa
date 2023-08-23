@@ -1,1 +1,1 @@
-# Data Structure and Algorithms Revisit
+# Data Structures and Algorithms Revisit
